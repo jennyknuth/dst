@@ -97,6 +97,7 @@ Example: `DstModel_v0.0.2_20031130T230000_1H_7d79096db134.nc`
 !-->
 ## References
 A. Hu, E. Camporeale, B. Swiger (2022) **Multi-Hour Ahead Dst Index Prediction Using Multi-Fidelity Boosted Neural Networks** *under review* https://arxiv.org/abs/2209.12571
+
 Al Shidi, Q., Pulkkinen, T., Toth, G., Brenner, A., Zou, S., & Gjerloev, J. (2022). **A Large Simulation Set of Geomagnetic Storms–Can Simulations Predict Ground Magnetometer Station Observations of Magnetic Field Perturbations?**, *Space Weather*, https://doi.org/10.1029/2022SW003049
 
 ## Contacts
